@@ -1,6 +1,14 @@
+---
+output: 
+  html_document: 
+    css: CSSBackgrounds.css
+    df_print: kable
+---
+
 ### Hi there 👋
 
 ✨✨✨
+
 - 🔭 I’m currently working on [Sςιβrοκεrs Trαdιηg®](https://www.scibrokes.com)
 - 🌱 I’m currently learning ξconometrics
 - 👯 I’m looking to collaborate on ξconometrics [Sςιβrοκεrs on GitHub](https://www.github.com/scibrokes)
@@ -10,8 +18,9 @@
 - 😄 Pronouns: ®γσ
 - ⚡ Fun fact: ξconometrics
 
-Languages and Tools:
+<span style='color:white; background-color:#4E79A7;'>Languages and Tools:</span>
 
+<img src='figure/rstudio.png' width='25'> <img src='figure/anaconda.png' width='25'> <img src='figure/jupyterlab.png' width='25'>
 
 ✨✨✨
 
@@ -26,6 +35,7 @@ Reference :
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [GitHub Readme Background Gradient Coor `Update index.js #1082`](https://github.com/anuraghazra/github-readme-stats/pull/1082#issuecomment-847753937)
 - [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s)
+- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 - [Sςιβrοκεrs CV on GitHub](https://www.github.com/scibrokes/owner)
 - [®γσ on Rpubs.com](https://rpubs.com/englianhu)
 
