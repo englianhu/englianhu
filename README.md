@@ -15,8 +15,10 @@ Languages and Tools:
 
 ✨✨✨
 
-[![®γσ's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=englianhu&show_icons=true&show_owner=true&theme=algolia&repo=github-readme-stats)](https://github.com/englianhu/github-readme-stats)
+[![®γσ's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=englianhu&show_icons=true&show_owner=true&langs_count=10&layout=compact&theme=algolia)](https://github.com/englianhu/github-readme-stats)
 [![®γσ's GitHub stats](https://github-readme-stats.vercel.app/api?username=englianhu&show_icons=true&show_owner=true&theme=algolia)](https://github.com/englianhu/github-readme-stats)
+[![®γσ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=englianhu&show_icons=true&show_owner=true&theme=algolia)](https://github.com/englianhu/github-readme-stats)
+[![®γσ's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=englianhu&show_icons=true&show_owner=true&theme=algolia&repo=github-readme-stats)](https://github.com/englianhu/github-readme-stats)
 
 Reference :
 
