@@ -14,7 +14,7 @@
 
 <span style='color:white; background-color:#4E79A7;'>Languages and Tools:</span>
 
-<img src='figure/rstudio.png' width='25'> <img src='figure/anaconda.png' width='27'> <img src='figure/jupyterlab.png' width='25'> <img src='figure/cpp.png' width='23'> <img src='figure/github.png' width='29'> <img src='figure/linux1.jpg' width='27'> <img src='figure/html-css-js.png' width='42'> <img src='figure/latex.jpg' width='62'>
+<img src='figure/rstudio.png' width='25'> <img src='figure/anaconda.png' width='27'> <img src='figure/jupyterlab.png' width='25'> <img src='figure/cpp.png' width='23'> <img src='figure/github.png' width='29'> <img src='figure/linux1.jpg' width='27'> <img src='figure/html-css-js.png' width='44'> <img src='figure/latex.jpg' width='64'>
 
 ✨✨✨
 
