@@ -12,6 +12,9 @@
 
 ✨✨✨
 
+[![®γσ's GitHub stats](https://github-readme-stats.vercel.app/api?username=englianhu&show_icons=true&theme=algolia)](https://github.com/englianhu/github-readme-stats)
+
+
 Reference :
 
 - [How to create a GitHub profile README](https://youtu.be/vND_UY7xk24)
