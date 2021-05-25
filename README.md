@@ -1,9 +1,3 @@
----
-output: 
-  html_document: 
-    css: CSSBackgrounds.css
-    df_print: kable
----
 
 ### Hi there 👋
 
@@ -20,7 +14,7 @@ output:
 
 <span style='color:white; background-color:#4E79A7;'>Languages and Tools:</span>
 
-<img src='figure/rstudio.png' width='25'> <img src='figure/anaconda.png' width='25'> <img src='figure/jupyterlab.png' width='25'>
+<img src='figure/rstudio.png' width='25'> <img src='figure/anaconda.png' width='25'> <img src='figure/jupyterlab.png' width='25'> <img src='figure/cpp.png' width='21'> <img src='figure/github.png' width='27'> <img src='figure/linux1.jpg' width='25'> <img src='figure/html-css-js.png' width='60'> <img src='figure/latex.jpg' width='60'>
 
 ✨✨✨
 
