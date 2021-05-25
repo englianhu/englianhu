@@ -15,6 +15,7 @@
 Reference :
 
 - [How to create a GitHub profile README](https://youtu.be/vND_UY7xk24)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [Sςιβrοκεrs CV on GitHub](https://www.github.com/scibrokes/owner)
 - [®γσ on Rpubs.com](https://rpubs.com/englianhu)
 
