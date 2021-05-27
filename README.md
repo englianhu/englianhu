@@ -2,8 +2,6 @@
 
 # ✨✨®γσ ξηg✨✨
 
----
-
 ✨✨✨
 
 - 🔭 I’m currently working on [Sςιβrοκεrs Trαdιηg®](https://www.scibrokes.com)
@@ -25,6 +23,8 @@
 [![®γσ's GitHub stats](https://github-readme-stats.vercel.app/api?username=englianhu&title_color=A10115&icon_color=DEG,EDAE01&text_color=EDAE01&bg_color=DEG,002C54,4CB5F5&show_icons=true)](https://github.com/englianhu/github-readme-stats)
 [![®γσ's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=englianhu&title_color=A10115&icon_color=DEG,EDAE01&text_color=EDAE01&bg_color=DEG,002C54,4CB5F5&show_icons=true&show_owner=true&repo=github-readme-stats)](https://github.com/englianhu/github-readme-stats)
 [![®γσ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=englianhu&title_color=A10115&icon_color=DEG,EDAE01&text_color=EDAE01&bg_color=DEG,002C54,4CB5F5&show_icons=true&show_owner=true&layout=compact)](https://github.com/englianhu/github-readme-stats)
+
+---
 
 Reference :
 
