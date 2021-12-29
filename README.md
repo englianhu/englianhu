@@ -38,3 +38,7 @@ Reference :
 - [Sςιβrοκεrs CV on GitHub](https://www.github.com/scibrokes/owner)
 - [®γσ on Rpubs.com](https://rpubs.com/englianhu)
 
+---
+
+<span style='color:RoyalBlue'>**Powered by - Copyright® Intellectual Property Rights of [<img src="figure/Scibrokes.png" width="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com) 個人の経営企業**</span>
+
