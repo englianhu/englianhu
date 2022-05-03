@@ -6,16 +6,16 @@
 
 ✨✨✨
 
-- 🔭 I’m currently working on [Sςιβrοκεrs Trαdιηg®](https://www.scibrokes.com)
-- 🌱 I’m currently learning ξconometrics
-- 👯 I’m looking to collaborate on ξconometrics [Sςιβrοκεrs on GitHub](https://www.github.com/scibrokes)
-- 🤔 I’m looking for help with ξconometrics
-- 💬 Ask me about ξconometrics
-- 📫 How to reach me: [Gmail](mailto:englianhu@gmail.com) / [Scimail](mailto:englianhu@scibrokes.com)
-- 😄 Pronouns: ®γσ
-- ⚡ Fun fact: ξconometrics
+- 🔭 目前正在[官网：世博量化®](https://www.scibrokes.com)科研高频量化交易
+- 🌱 目前正在学习计量经济学 ξconometrics
+- 👯 [猫舍：世博量化®](https://www.github.com/scibrokes)周公吐哺，天下归心。
+- 🤔 目前需要计量经济学知音
+- 💬 计量经济学兵法 / Arts of ξconometrics
+- 📫 联系电邮信箱[Gmail](mailto:englianhu@gmail.com) / [Scimail](mailto:englianhu@scibrokes.com)
+- 😄 拼音：®γσ
+- ⚡ 娱乐：ξconometrics
 
-<span style='color:white; background-color:#4E79A7;'>Languages and Tools:</span>
+<span style='color:white; background-color:#4E79A7;'>量化圈兵法：</span>
 
 <img src='figure/rstudio.png' width='25'> <img src='figure/anaconda.png' width='27'> <img src='figure/jupyterlab.png' width='25'> <img src='figure/cpp.png' width='23'> <img src='figure/github.png' width='29'> <img src='figure/linux1.jpg' width='27'> <img src='figure/html-css-js.png' width='45'> <img src='figure/latex.jpg' width='65'>
 
@@ -28,17 +28,17 @@
 
 ---
 
-Reference :
+参考文献：
 
 - [How to create a GitHub profile README](https://youtu.be/vND_UY7xk24)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [GitHub Readme Background Gradient Coor `Update index.js #1082`](https://github.com/anuraghazra/github-readme-stats/pull/1082#issuecomment-847753937)
 - [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s)
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [Sςιβrοκεrs CV on GitHub](https://www.github.com/scibrokes/owner)
+- [猫舍： 世博量化®创办人简历](https://www.github.com/scibrokes/owner)
 - [®γσ on Rpubs.com](https://rpubs.com/englianhu)
 
 ---
 
-<span style='color:RoyalBlue'>**Powered by - Copyright® Intellectual Property Rights of [<img src="figure/Scibrokes.png" width="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com) 個人の経営企業**</span>
-
+[<img src="figure/Scibrokes.png" width="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
+<span style='color:RoyalBlue'>**[<img src="figure/Scibrokes.png" width="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
