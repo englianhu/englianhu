@@ -4,7 +4,9 @@
 
 ---
 
-[®Studio <img src='figure/rstudiocloud-badge.png' width='20'>](https://rstudio.cloud) [![](https://camo.githubusercontent.com/31793dc629bedb9bba09ba68f2c14494fbd8891d2dafc23701797876e1277ef8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6d6d756e6974792d7368696e792d626c75653f7374796c653d736f6369616c266c6f676f3d7273747564696f266c6f676f436f6c6f723d373541414442)](https://community.rstudio.com/new-topic?category=shiny&tags=shiny) [![](figure/shiny-badge.svg)](https://www.shinyapps.io) 
+[<img src='figure/RStudioCloud.png' height='20'>](https://rstudio.cloud) [<img src='figure/RStudioCom2.png' height='20'>](https://community.rstudio.com/new-topic?category=shiny&tags=shiny) [![](figure/shiny-badge.svg)](https://www.shinyapps.io)
+
+<br>
 
 ✨✨✨
 
@@ -19,7 +21,7 @@
 
 <span style='color:white; background-color:#4E79A7;'>量化圈兵法：</span>
 
-<img src='figure/rstudio.png' width='25'> <img src='figure/anaconda.png' width='27'> <img src='figure/jupyterlab.png' width='25'> <img src='figure/cpp.png' width='23'> <img src='figure/github.png' width='29'> <img src='figure/linux1.jpg' width='27'> <img src='figure/html-css-js.png' width='45'> <img src='figure/latex.jpg' width='65'>
+<img src='figure/rstudio.png' height='20'> <img src='figure/anaconda.png' height='20'> <img src='figure/jupyterlab.png' height='20'> <img src='figure/cpp.png' height='20'> <img src='figure/github.png' height='20'> <img src='figure/linux1.jpg' height='20'> <img src='figure/html-css-js.png' height='20'> <img src='figure/latex.jpg' height='20'>
 
 ✨✨✨
 
