@@ -4,6 +4,8 @@
 
 ---
 
+[®Studio <img src='figure/rstudiocloud-badge.png' width='20'>](https://rstudio.cloud) [![](https://camo.githubusercontent.com/31793dc629bedb9bba09ba68f2c14494fbd8891d2dafc23701797876e1277ef8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6d6d756e6974792d7368696e792d626c75653f7374796c653d736f6369616c266c6f676f3d7273747564696f266c6f676f436f6c6f723d373541414442)](https://community.rstudio.com/new-topic?category=shiny&tags=shiny) [![](figure/shiny-badge.svg)](https://www.shinyapps.io) 
+
 ✨✨✨
 
 - 🔭 目前正在[官网：世博量化®](https://www.scibrokes.com)科研高频量化交易
