@@ -1,4 +1,4 @@
-![](figure/RTech_WP.jpg)
+![](figure/红旗中科，量化对冲，RStudioCloud，英国基督洋妞儿芈拉.jpg)
 
 # ✨✨🐉®γσ ξηg✨✨
 
