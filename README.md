@@ -1,6 +1,8 @@
 ![](figure/红旗中科，量化对冲，RStudioCloud，英国基督洋妞儿芈拉.jpg)
 
-# ✨✨🐉®γσ ξηg✨✨
+大秦赋
+
+# ✨✨®γσ ξηg（雷欧）✨✨
 
 ---
 
@@ -12,12 +14,12 @@
 
 - 🔭 目前正在[官网：世博量化®](https://www.scibrokes.com)科研高频量化交易
 - 🌱 目前正在学习计量经济学 ξconometrics
-- 👯 [猫舍：世博量化®](https://www.github.com/scibrokes)周公吐哺，天下归心。
+- 👯 [猫城：世博量化®](https://www.github.com/scibrokes)周公吐哺，天下归心。
 - 🤔 目前需要计量经济学知音
 - 💬 计量经济学兵法 / Arts of ξconometrics
 - 📫 联系电邮信箱[Gmail](mailto:englianhu@gmail.com) / [Scimail](mailto:englianhu@scibrokes.com)
 - 😄 拼音：®γσ
-- ⚡ 娱乐：ξconometrics
+- ⚡ 娱乐：ξconometrics（计量经济学）
 
 <span style='color:white; background-color:#4E79A7;'>量化圈兵法：</span>
 
