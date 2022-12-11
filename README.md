@@ -1,4 +1,4 @@
-![](figure/红旗中科，量化对冲，RStudioCloud，英国基督洋妞儿芈拉.jpg)
+![](文艺坊图库/红旗中科，量化对冲，RStudioCloud，英国基督洋妞儿芈拉.jpg)
 
 大秦赋
 
@@ -6,7 +6,7 @@
 
 ---
 
-[<img src='figure/RStudioCloud.png' height='20'>](https://rstudio.cloud) [<img src='figure/RStudioCom2.png' height='20'>](https://community.rstudio.com/new-topic?category=shiny&tags=shiny) [![](figure/shiny-badge.svg)](https://www.shinyapps.io)
+[<img src='文艺坊图库/RStudioCloud.png' height='20'>](https://rstudio.cloud) [<img src='文艺坊图库/RStudioCom2.png' height='20'>](https://community.rstudio.com/new-topic?category=shiny&tags=shiny) [![](文艺坊图库/shiny-badge.svg)](https://www.shinyapps.io)
 
 <br>
 
@@ -23,7 +23,7 @@
 
 <span style='color:white; background-color:#4E79A7;'>量化圈兵法：</span>
 
-<img src='figure/rstudio.png' height='20'> <img src='figure/anaconda.png' height='20'> <img src='figure/jupyterlab.png' height='20'> <img src='figure/cpp.png' height='20'> <img src='figure/github.png' height='20'> <img src='figure/linux1.jpg' height='20'> <img src='figure/html-css-js.png' height='20'> <img src='figure/latex.jpg' height='20'>
+<img src='文艺坊图库/rstudio.png' height='20'> <img src='文艺坊图库/anaconda.png' height='20'> <img src='文艺坊图库/jupyterlab.png' height='20'> <img src='文艺坊图库/cpp.png' height='20'> <img src='文艺坊图库/github.png' height='20'> <img src='文艺坊图库/linux1.jpg' height='20'> <img src='文艺坊图库/html-css-js.png' height='20'> <img src='文艺坊图库/latex.jpg' height='20'>
 
 ✨✨✨
 
@@ -46,5 +46,5 @@
 
 ---
 
-[<img src="figure/Scibrokes.png" width="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
-<span style='color:RoyalBlue'>**[<img src="figure/Scibrokes.png" width="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
+[<img src="文艺坊图库/Scibrokes.png" width="14"/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
+<span style='color:RoyalBlue'>**[<img src="文艺坊图库/Scibrokes.png" width="14"/> 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**</span>
