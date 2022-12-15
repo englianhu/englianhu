@@ -43,6 +43,7 @@
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 - [猫舍： 世博量化®创办人简历](https://www.github.com/scibrokes/owner)
 - [®γσ on Rpubs.com](https://rpubs.com/englianhu)
+- [【案例】猫城：星外之神](https://github.com/wszqkzqk)
 
 ---
 
