@@ -1,5 +1,4 @@
-<img src="文艺坊图库/国产操作系统廿年进退攻防战斗不止.png" height="200"/>
-<img src="文艺坊图库/大秦赋%20Chinese%20Emperor.png" height="200"/>
+<img src="文艺坊图库/国产操作系统廿年进退攻防战斗不止.png" height="800"/><img src="文艺坊图库/大秦赋%20Chinese%20Emperor.png" height="800"/>
 
 《🚩🇨🇳🔆🏹🌟👊🚀🦔大秦赋 - 黄埔军校赢家黄氏江夏堂》
 
