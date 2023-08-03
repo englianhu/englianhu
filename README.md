@@ -34,9 +34,10 @@ https://www.youtube.com/watch?v=x_2qh4m4XkM
 集体自杀，何罪之有？
 https://www.163.com/dy/article/HM881SKU0511RVG1.html
 ```
--   🔭 目前正在[官网：世博量化®](https://www.scibrokes.com)科研高频量化交易
+-   🔭 目前正在[官网@世博量化®](https://www.scibrokes.com)科研高频量化交易
 -   🌱 目前正在学习计量经济学 ξconometrics
--   👯 [猫城：世博量化®](https://www.github.com/scibrokes)周公吐哺，天下归心。
+-   👯 [猫城@世博量化®](https://www.github.com/scibrokes)周公吐哺，天下归心。
+-   [龙珠雎䴘](https://gitee.com/englianhu)
 -   🤔 目前需要计量经济学知音
 -   💬 计量经济学兵法 / Arts of ξconometrics
 -   📫 联系电邮信箱[Gmail](mailto:englianhu@gmail.com) / [Scimail](mailto:englianhu@scibrokes.com)
@@ -60,9 +61,9 @@ https://www.163.com/dy/article/HM881SKU0511RVG1.html
 -   [GitHub Readme Background Gradient Coor `Update index.js #1082`](https://github.com/anuraghazra/github-readme-stats/pull/1082#issuecomment-847753937)
 -   [UPDATE: Next Level GitHub Profile README (NEW) \| GitHub Actions \| Vercel \| Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s)
 -   [Next Level GitHub Profile README (NEW) \| How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
--   [猫舍： 世博量化®创办人简历](https://www.github.com/scibrokes/owner)
+-   [猫城@世博量化®创办人简历](https://www.github.com/scibrokes/owner)
 -   [®γσ on Rpubs.com](https://rpubs.com/englianhu)
--   [【案例】猫城：星外之神](https://github.com/wszqkzqk)
+-   [「案例」猫城@星外之神](https://github.com/wszqkzqk)
 
 ------------------------------------------------------------------------
 
