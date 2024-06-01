@@ -6,19 +6,23 @@
 
 # ✨✨®γσ ξηg（雷欧）✨✨
 
-------------------------------------------------------------------------
+------------------------
 
-<img src="文艺坊图库/大秦赋 - 北京大学.png" height="20"/> <img src="文艺坊图库/大秦赋 - 学术政府.png" height="20"/> <img src="文艺坊图库/赢家黄氏江夏堂 - 武汉大学.png" height="20"/> <img src="文艺坊图库/兵马俑 Terracotta Warriors.png" height="20"/>
+<img src="诸子百家考工记/大秦赋 - 北京大学.png" height="20"/> <img src="诸子百家考工记/大秦赋 - 学术政府.png" height="20"/> <img src="诸子百家考工记/赢家黄氏江夏堂 - 武汉大学.png" height="20"/> <img src="诸子百家考工记/兵马俑 Terracotta Warriors.png" height="20"/>
 
 <br>
 
 ✨✨✨
-```r
+
+![](诸子百家考工记/中科红旗.png)
+
 《🚩春秋战国之鬼谷传奇》
 
 #春秋战国 #诸子百家 #秦人牧马 #赢家黄氏江夏堂 #中科红旗高频量化对冲 #万般皆下品唯有读书高 #大秦赋 #GreaterChina #黄埔军校兵马俑 #十二生肖 #公元前只有中文没有外文 #拯救亚洲人歼灭所有回教徒 #中国政府南太平洋战略 #中科红旗高频量化对冲 #万般皆下品唯有读书高
-印裔（祖籍印尼和南亚）尽弃，瓦釜雷鸣；
+印裔尽弃，瓦釜雷鸣；
 莫忘初衷，方得始终。
+
+*注释：祖籍印尼和世袭制可兰经法家巫贼巫婆和祖籍印度的乌贼乌婆兴都教徒和世袭制可兰经法家回教徒。*
 
 古往今来，在基本历史课所记载并授教与莘莘学子会春秋万载、名垂千史、流芳百世的不外乎对人类文明发展有贡献的伟大历史人物：
 - 政客与文臣武将
@@ -46,7 +50,6 @@
 🚩🇨🇳🏹🦔学海无涯，唯勤是岸；
 🚩🇨🇳🏹🦔莫忘初衷，方得始终。
 https://gitee.com/eglianhu
-```
 
 > #春秋战国 #大秦赋 #十二生肖 #赢家黄氏江夏堂 #黄埔军校兵马俑 #黄种人 #普天之下莫非黄土 #孔明借东风 #中科红旗 #道家老子李耳 #楚人仕秦李斯国学论 #公元前只有中文没有外文 #巫贼巫婆回教徒是可兰经回教什叶派和尼尔逊派爱国狂热份子虔诚自杀式效忠可兰经回教去集体自杀 #回教徒爱国就集体自杀而不爱国就集体退位让贤而已 #回教徒爱国狂热份子只需要遵守可兰经刑法去自宫自残自虐自杀就是向全世界推广爱国 #可兰经回教规定全球所有回教徒世袭制不许叛乱和叛教 #巫贼巫婆宦官东施民族回教徒是身体有缺陷的精神病患智障民族
 > 
@@ -65,19 +68,19 @@ https://gitee.com/eglianhu
 -   [龙珠雎䴘](https://gitee.com/englianhu)
 -   🤔 目前需要计量经济学知音
 -   💬 计量经济学兵法 / Arts of ξconometrics
--   📫 联系电邮信箱[Gmail](mailto:englianhu@gmail.com) / [Scimail](mailto:englianhu@scibrokes.com)
+-   📫 联系电邮信箱[Gmail](mailto:englianhu@gmail.com)
 -   😄 拼音：®γσ
 -   ⚡ 娱乐：ξconometrics（计量经济学）
 
 [量化圈兵法：]{style="color:white; background-color:#4E79A7;"}
 
-<img src="文艺坊图库/rstudio.png" height="20"/> <img src="文艺坊图库/anaconda.png" height="20"/> <img src="文艺坊图库/jupyterlab.png" height="20"/> <img src="文艺坊图库/cpp.png" height="20"/> <img src="文艺坊图库/github.png" height="20"/> <img src="文艺坊图库/linux1.jpg" height="20"/> <img src="文艺坊图库/html-css-js.png" height="20"/> <img src="文艺坊图库/latex.jpg" height="20"/>
+<img src="诸子百家考工记/rstudio.png" height="20"/> <img src="诸子百家考工记/anaconda.png" height="20"/> <img src="诸子百家考工记/jupyterlab.png" height="20"/> <img src="诸子百家考工记/cpp.png" height="20"/> <img src="诸子百家考工记/github.png" height="20"/> <img src="诸子百家考工记/linux1.jpg" height="20"/> <img src="诸子百家考工记/html-css-js.png" height="20"/> <img src="诸子百家考工记/latex.jpg" height="20"/>
 
 ✨✨✨
 
 [![®γσ\'s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=englianhu&title_color=A10115&icon_color=DEG,EDAE01&text_color=EDAE01&bg_color=DEG,002C54,4CB5F5&show_icons=true&show_owner=true&langs_count=10&layout=compact)](https://github.com/englianhu/github-readme-stats) [![®γσ\'s GitHub stats](https://github-readme-stats.vercel.app/api?username=englianhu&title_color=A10115&icon_color=DEG,EDAE01&text_color=EDAE01&bg_color=DEG,002C54,4CB5F5&show_icons=true)](https://github.com/englianhu/github-readme-stats) [![®γσ\'s Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=englianhu&title_color=A10115&icon_color=DEG,EDAE01&text_color=EDAE01&bg_color=DEG,002C54,4CB5F5&show_icons=true&show_owner=true&repo=github-readme-stats)](https://github.com/englianhu/github-readme-stats) [![®γσ\'s wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=englianhu&title_color=A10115&icon_color=DEG,EDAE01&text_color=EDAE01&bg_color=DEG,002C54,4CB5F5&show_icons=true&show_owner=true&layout=compact)](https://github.com/englianhu/github-readme-stats)
 
-------------------------------------------------------------------------
+---------------------------
 
 参考文献：
 
